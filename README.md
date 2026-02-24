@@ -101,6 +101,8 @@ Messages are displayed instantly between all connected clients.
 User-friendly and visually appealing interface with message alignment, timestamps, and responsive design.
 
 Demonstrated practical understanding of WebSockets, event-based communication, and Node.js back-end handling.
+<img width="1903" height="955" alt="Image" src="https://github.com/user-attachments/assets/bd9a6225-3c61-4766-a9d6-e3a8cf3335ef" />
+<img width="1912" height="919" alt="Image" src="https://github.com/user-attachments/assets/c7759370-f224-4f19-a328-052c12d2f40a" />
 
 LEARNING OUTCOMES
 
